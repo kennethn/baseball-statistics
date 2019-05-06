@@ -7,5 +7,6 @@ Baseball is a game full of statistics, and most of those statistics have been co
 * **3_Teams**: analysis of individual teams, with an emphasis on the San Francisco Giants
 * **4_Hall_of_Fame:** characteristics of Hall of Famers
 * **5_Batting:** analysis of batting stats
+* **6_Salaries:** inflation-adjusted analysis of player salaries
 
 **Data Source:** [Lahman's Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/). The data set I used was through the 2018 season.
